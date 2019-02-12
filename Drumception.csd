@@ -1,3 +1,11 @@
+;Drumception is a drum rack plug in that consists of four categories a kick, clap, cowbell and dish all created using addictive and subtractive synthesis. 
+;Drumception allows the user to create their own sample collection with these four categorise. 
+;These samples can then be used as a production or compositional tool.
+
+
+
+
+
 <CsoundSynthesizer>
 <CsOptions>
 -odac -d
